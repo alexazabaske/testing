@@ -1,3 +1,8 @@
 Okay, I think I'm getting the hang of this. I just need to figure out the difference between pull, checkout, and merge...
 
 I'm changing this one in the github online. 
+Another edit from the terminal right hereeeee
+^ I edited this line, but I didn't add it to the staging area. So I didn't commit it or push it to the remote
+I was still able to commit & push other files to the remote,  and pull from the remote, without erasing that line. 
+
+Now I'm going to committ all changes in this working directory to the remote github repo.  
